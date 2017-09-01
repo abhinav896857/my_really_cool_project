@@ -1,2 +1,5 @@
 THis is file3
+<<<<<<< HEAD
 Changed2 in master
+=======
+>>>>>>> feature3
